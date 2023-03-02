@@ -1,0 +1,8 @@
+Source localization data for GW170817 are available as LIGO G1701985
+
+Low-spin/high-spin Maps for follow-up BBH observations
+
+
+GW170817:
+https://dcc.ligo.org/LIGO-G1701985/public
+https://www.gw-openscience.org/events/GW170817/
